@@ -1,4 +1,0 @@
-Feature 1
-Feature 2
-Important bug fix
-Now it Fixed

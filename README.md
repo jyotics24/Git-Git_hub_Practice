@@ -1,20 +1,55 @@
-# Git & GitHub Topics
+Git & GitHub Topics
 
-1. Git Theory
-2. Git Commands
-3. Git Branching
-4. Git Merge & Merge Conflicts
-5. Git Rebase
-6. Git Remote & GitHub
-7. Git Stash
-8. Git Reset & Revert
-9. Git Log & Diff
-10. Git Tagging
-11. Git Cherry-Pick
-12. Git Bisect
-13. Git Worktree
-14. Git Configuration
-15. Git Gitignore
-16. Git Hooks
-17. Add a new branch
-18. Then checkout to Feture
+A collection of notes and practice material covering essential Git and GitHub concepts.
+
+Topics
+Git Theory
+Git Commands
+Git Branching
+Git Merge & Merge Conflicts
+Git Rebase
+Git Remote & GitHub
+Git Stash
+Git Reset & Revert
+Git Log & Diff
+Git Tagging
+Git Cherry-Pick
+Git Bisect
+Git Worktree
+Git Configuration
+Git Gitignore
+Git Hooks
+Repository Structure
+
+This repository contains Git and GitHub learning notes, commands, examples, and practical exercises.
+
+Branch
+
+The repository uses main as the primary branch.Git & GitHub Topics
+
+A collection of notes and practice material covering essential Git and GitHub concepts.
+
+Topics
+Git Theory
+Git Commands
+Git Branching
+Git Merge & Merge Conflicts
+Git Rebase
+Git Remote & GitHub
+Git Stash
+Git Reset & Revert
+Git Log & Diff
+Git Tagging
+Git Cherry-Pick
+Git Bisect
+Git Worktree
+Git Configuration
+Git Gitignore
+Git Hooks
+Repository Structure
+
+This repository contains Git and GitHub learning notes, commands, examples, and practical exercises.
+
+Branch
+
+The repository uses main as the primary branch.

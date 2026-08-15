@@ -16,5 +16,3 @@
 14. Git Configuration
 15. Git Gitignore
 16. Git Hooks
-17. Add a new branch
-18. Then checkout to Feture
